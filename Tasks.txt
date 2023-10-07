@@ -2,3 +2,5 @@ index.html:
 - updt Twitter user
 - replace Vigo by Tiktok
 - add LetrasMus
+- './add Mesquito Wikia'
+- updt photos.png
