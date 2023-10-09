@@ -1,6 +1,4 @@
 index.html:
-- updt Twitter user
-- replace Vigo by Tiktok
 - add LetrasMus
 - updt photos.png
 - https://www.namecheap.com/domains/registration/results/?domain=mesquito.art (register for 2 years bc of discount)
