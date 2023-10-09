@@ -4,3 +4,4 @@ index.html:
 - https://www.namecheap.com/domains/registration/results/?domain=mesquito.art (register for 2 years bc of discount)
 - https://www.superdominios.org/home/cart.php?ccce=cart&a=add&domain=register&query=mesquito.com.br (park for redirect to mesquito.art)
 - './add Mesquito Wikia'
+- recover mesquito.ml domain
