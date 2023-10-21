@@ -1,0 +1,142 @@
+This folder: /media/daniella/B/git/danimesq/YT-TTK/Mesquito/Site
+
+  File: ./add Mesquito Wikia
+  Size: 2984      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4039171     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-09 20:04:47.243672400 -0300
+Modify: 2023-10-09 20:04:47.178728200 -0300
+Change: 2023-10-09 20:04:47.239731200 -0300
+ Birth: -
+IPFS hash: QmSXV7gzwzPWBZVotqhDgNjJ11xPmnAUvUmdrh7Aqz6yob
+------------------------------
+  File: ./CNAME
+  Size: 21        	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 3144929     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-09 16:32:32.795354700 -0300
+Modify: 2023-10-09 16:32:32.791847400 -0300
+Change: 2023-10-09 16:32:32.791847400 -0300
+ Birth: -
+IPFS hash: QmWw2MS6xb4BPocQfsELpNPq2L39CU2QJyCs5wv8EBi557
+------------------------------
+  File: ./favicon.ico
+  Size: 5430      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,20	Inode: 4039258     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-20 19:52:51.214766500 -0300
+Modify: 2023-10-07 20:15:50.558603000 -0300
+Change: 2023-10-07 20:16:18.112153300 -0300
+ Birth: -
+IPFS hash: QmaAZeCfTks8pPS2j7nvgwMBJJNjG2ott9ojCHHNdaULSk
+------------------------------
+  File: ./favicon.png
+  Size: 386655    	Blocks: 760        IO Block: 4096   regular file
+Device: 8,20	Inode: 4039256     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-20 19:52:51.239763200 -0300
+Modify: 2017-02-25 15:24:57.847492000 -0300
+Change: 2023-10-07 20:14:27.361592600 -0300
+ Birth: -
+IPFS hash: QmTEBmKipnUpCkQgKvmVwzrPsWysPM66C5PRbqZ6cGW285
+------------------------------
+  File: ./index.html
+  Size: 13631     	Blocks: 32         IO Block: 4096   regular file
+Device: 8,20	Inode: 4265549     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-18 20:38:26.800902800 -0300
+Modify: 2023-10-18 20:38:24.284559400 -0300
+Change: 2023-10-18 20:38:24.336739000 -0300
+ Birth: -
+IPFS hash: QmTjH6rxmhDM8ZaWHV3e6UZBYwiiUJBS5To5q6tJGPUZoE
+------------------------------
+  File: ./logotype-plain_black.png
+  Size: 28783     	Blocks: 64         IO Block: 4096   regular file
+Device: 8,20	Inode: 1128499     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-20 20:35:04.680432500 -0300
+Modify: 2023-10-20 19:55:47.322889800 -0300
+Change: 2023-10-20 19:56:16.047169700 -0300
+ Birth: -
+IPFS hash: QmXqCmQJHd7tHizNpnNfbj4Z4G6gTngkKoycPkCL1Wi87b
+------------------------------
+  File: ./logotype-plain_black.svg
+  Size: 20383     	Blocks: 40         IO Block: 4096   regular file
+Device: 8,20	Inode: 1130176     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-20 20:35:04.801416100 -0300
+Modify: 2023-10-20 19:56:03.981433700 -0300
+Change: 2023-10-20 19:56:22.804197300 -0300
+ Birth: -
+IPFS hash: QmZCwUM1wKdPBFX6PaV4W4wqGiDERgL6zTNaMpfj7PVTiq
+------------------------------
+  File: ./logotype-plain_white.png
+  Size: 28783     	Blocks: 64         IO Block: 4096   regular file
+Device: 8,20	Inode: 1130182     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-20 19:56:42.856623500 -0300
+Modify: 2023-10-20 19:56:42.271945900 -0300
+Change: 2023-10-20 19:56:42.271945900 -0300
+ Birth: -
+IPFS hash: QmaivS2wxZPYGfSf7kXSN5RPMwQDEoi4mZxtEoGU4aSsU4
+------------------------------
+  File: ./logotype-plain_white.svg
+  Size: 20533     	Blocks: 48         IO Block: 4096   regular file
+Device: 8,20	Inode: 1132620     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-20 19:56:49.679573900 -0300
+Modify: 2023-10-20 19:56:49.679573900 -0300
+Change: 2023-10-20 19:56:49.679573900 -0300
+ Birth: -
+IPFS hash: QmfVXHgyBBfRqhUVKFkL2RncK8YzniP9yMzofEM49Sy9B2
+------------------------------
+  File: ./logotype.png
+  Size: 28829     	Blocks: 64         IO Block: 4096   regular file
+Device: 8,20	Inode: 1002293     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-20 19:52:51.268756100 -0300
+Modify: 2023-10-20 19:51:22.803027000 -0300
+Change: 2023-10-20 19:51:22.803027000 -0300
+ Birth: -
+IPFS hash: QmeWcaMDPtBPNgqdfSWQizkpRMGZnLe2KAaBEQLyDXPf9o
+------------------------------
+  File: ./logotype.svg
+  Size: 20533     	Blocks: 48         IO Block: 4096   regular file
+Device: 8,20	Inode: 1002301     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-20 19:51:34.126518700 -0300
+Modify: 2023-10-20 19:51:34.126518700 -0300
+Change: 2023-10-20 19:51:34.126518700 -0300
+ Birth: -
+IPFS hash: QmXTQP2qBPF9BjWoxvFem2Hsya5mUEhDdYdwzgbk83jqom
+------------------------------
+  File: ./photos.png
+  Size: 179179    	Blocks: 352        IO Block: 4096   regular file
+Device: 8,20	Inode: 4265369     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-20 19:52:51.292295000 -0300
+Modify: 2023-10-18 20:19:05.530908500 -0300
+Change: 2023-10-18 20:19:05.583780600 -0300
+ Birth: -
+IPFS hash: QmNvJN3YQPb5LxSknzpNCLuhb7zohruGqePifQ9Nfe7XtW
+------------------------------
+  File: ./press
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 1066551     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-20 19:55:30.175990900 -0300
+Modify: 2023-10-20 19:53:31.148769600 -0300
+Change: 2023-10-20 19:53:31.148769600 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./Tasks.txt
+  Size: 352       	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 2292455     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-09 15:53:46.414862500 -0300
+Modify: 2023-10-09 15:53:46.407073400 -0300
+Change: 2023-10-09 15:53:46.727136800 -0300
+ Birth: -
+IPFS hash: QmS1dVoxpNEDhB2jAmpy3U7shtcKaTPJznC9QzYuUizcsF
+------------------------------
