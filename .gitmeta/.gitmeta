@@ -1,12 +1,12 @@
-commit Qma3Kan638VoDKwKQR5WvpC8RrDNZSTTLhzAB2RY6NrFaB
+commit QmY38k5uV7hYi7rKkegRqeWCuDqCZ4GXUqKGgW7AkS54Ar
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 10eb27535023dd85da65dc23370a5edb1ae439a9e81818ccc03a594bfc6983a930f57f479fae03d8534c16e0d8a961c3ea2c30c05f2cf635dafef4c9bfee074c01
+Signature: 8c87b116d87bb10ccab2446704770978457cc65206d7d86acab8f87c1ebd53c3237efeeea8377b469efb5ea45e427206502b9e0926e72caced9e7d0b706fb42401
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmXRA6PuMmwza2vo2HUvCejYjiwVuK81hU1e3vUhRgxGKw
-Commit CID if containing only file hashes: QmSy4gZjeApfXXbhsVGBciBKytis4h5wQAa88jQCZLtG8e
+Commit CID if including git's SHA1: QmYufzEGXTetU4G2tC1S4cpHySfZXYNZbvu6LcC9hx6VsF
+Commit CID if containing only file hashes: Qmb4pvbnbtVDFAGc4YrpGFr4yFh6nihrEo8L2MWHgyRWD9
 
 ------------------------------
 
@@ -17,31 +17,15 @@ Remote URL: E:/personal/projects/Mesquito.github.io.git
 
 ------------------------------
 
-chown -h 1000:1000 'css/page-custom.css'
-chmod 0755 'css/page-custom.css'
-/usr/bin/touch -hcmd "2024-05-11 19:57:19.2288790000 -0300" 'css/page-custom.css'
-/usr/bin/touch -hcad "2024-05-11 19:58:52.4764138000 -0300" 'css/page-custom.css'
-chown -h 1000:1000 'favicon.svg'
-chmod 0755 'favicon.svg'
-/usr/bin/touch -hcmd "2023-10-07 20:39:43.6560724000 -0300" 'favicon.svg'
-/usr/bin/touch -hcad "2024-05-11 19:55:39.0822753000 -0300" 'favicon.svg'
-chown -h 1000:1000 'img/5d30129fbe8118efde2a8a25_Badge Dark.svg'
-chmod 0664 'img/5d30129fbe8118efde2a8a25_Badge Dark.svg'
-/usr/bin/touch -hcmd "2024-05-11 19:58:46.7333182000 -0300" 'img/5d30129fbe8118efde2a8a25_Badge Dark.svg'
-/usr/bin/touch -hcad "2024-05-11 19:58:49.5043643000 -0300" 'img/5d30129fbe8118efde2a8a25_Badge Dark.svg'
-chown -h 1000:1000 'logotype.png'
-chmod 0755 'logotype.png'
-/usr/bin/touch -hcmd "2023-10-20 19:51:22.8030270000 -0300" 'logotype.png'
-/usr/bin/touch -hcad "2024-05-11 19:41:39.5827114000 -0300" 'logotype.png'
-chown -h 1000:1000 'logotype.svg'
-chmod 0755 'logotype.svg'
-/usr/bin/touch -hcmd "2023-10-20 19:51:34.1265187000 -0300" 'logotype.svg'
-/usr/bin/touch -hcad "2024-05-11 19:41:39.5987115000 -0300" 'logotype.svg'
-chown -h 1000:1000 'press/press-kit/img/icon.svg'
-chmod 0755 'press/press-kit/img/icon.svg'
-/usr/bin/touch -hcmd "2023-10-07 20:40:40.9338987000 -0300" 'press/press-kit/img/icon.svg'
-/usr/bin/touch -hcad "2024-05-11 19:54:47.1664652000 -0300" 'press/press-kit/img/icon.svg'
-chown -h 1000:1000 'press/press-kit/index.html'
-chmod 0755 'press/press-kit/index.html'
-/usr/bin/touch -hcmd "2024-05-11 20:45:37.8564347000 -0300" 'press/press-kit/index.html'
-/usr/bin/touch -hcad "2024-05-11 20:45:39.1754097000 -0300" 'press/press-kit/index.html'
+chown -h 1000:1000 'img/social/Snapchat-2053491222.jpg'
+chmod 0755 'img/social/Snapchat-2053491222.jpg'
+/usr/bin/touch -hcmd "2024-02-15 04:21:30.0000000000 -0300" 'img/social/Snapchat-2053491222.jpg'
+/usr/bin/touch -hcad "2024-05-11 20:29:38.1741082000 -0300" 'img/social/Snapchat-2053491222.jpg'
+chown -h 1000:1000 'index.html'
+chmod 0755 'index.html'
+/usr/bin/touch -hcmd "2024-05-11 20:30:35.8560643000 -0300" 'index.html'
+/usr/bin/touch -hcad "2024-05-11 20:30:39.7760632000 -0300" 'index.html'
+chown -h 1000:1000 'photos.png'
+chmod 0755 'photos.png'
+/usr/bin/touch -hcmd "2024-05-11 21:00:47.5932103000 -0300" 'photos.png'
+/usr/bin/touch -hcad "2024-05-11 21:00:50.5142103000 -0300" 'photos.png'
