@@ -1,31 +1,27 @@
-commit QmQo9Qep95VchpHPpKaMFE9gpvhqKGaRLuJtAKcgx2fZU1
+commit QmcVxr4YLNi6LG31HxwkkuLWahqwB3MXFQ3Q7DNzXtGHVE
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: ff7fd04a2df7ec167073be40f73d1f59fa0ce2f93c1e896a27551acaa8fe6543505876c3bca93a5a8fc20f35c520e60521c943690b581c2e419ef57627eac97200
+Signature: 933ba1918de59af1983aa8af7c32cf79cd2ded33b41e63ec199a641fa181b7c95c64739f3c6f2e7ca457f706a211c7f4c5506af9805d717b1a5f7cec3204e2e200
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmPGkgGYvnSXJQzRgvqKxHbxYMxg1GX9nbLZm4hr77zC43
-Commit CID if containing only file hashes: QmPeNyfYAEcHHgCirGHurBwws6SxHtjkiNcNbz3AFdZdBX
+Commit CID if including git's SHA1: QmbA9UWVhvR8iZunx2NdthQYpCQnWjitKMFQU6HMWxYoj7
+Commit CID if containing only file hashes: QmYzrFdtL8MVMGbCfHYPz5Jh1LbGP4ntoaJihzzg2HPMGU
 
 ------------------------------
 
 .gitmeta version: r8
-Local folder: /media/daniella/B/git/danimesq/Entertainment/YT-TTK/Mesquito/Site
+Local folder: /media/daniella/B/git/danimesq/Entertainment/YT-TTK/Mesquito/Sites/Site
 Remote Name: dvd
 Remote URL: E:/personal/projects/Mesquito.github.io.git
 
 ------------------------------
 
-chown -h 1000:1000 'characters.png'
-chmod 0755 'characters.png'
-/usr/bin/touch -hcmd "2024-05-11 21:15:55.9160649000 -0300" 'characters.png'
-/usr/bin/touch -hcad "2024-05-11 21:16:28.6121700000 -0300" 'characters.png'
-chown -h 1000:1000 'index.html'
-chmod 0755 'index.html'
-/usr/bin/touch -hcmd "2024-05-11 21:19:38.4062996000 -0300" 'index.html'
-/usr/bin/touch -hcad "2024-05-11 21:19:41.6346830000 -0300" 'index.html'
 chown -h 1000:1000 'person.png'
 chmod 0755 'person.png'
-/usr/bin/touch -hcmd "2024-05-11 21:17:47.7304296000 -0300" 'person.png'
-/usr/bin/touch -hcad "2024-05-11 21:18:07.1181565000 -0300" 'person.png'
+/usr/bin/touch -hcmd "2024-09-20 14:20:16.3804953000 -0300" 'person.png'
+/usr/bin/touch -hcad "2024-09-20 14:20:19.1563347000 -0300" 'person.png'
+chown -h 1000:1000 'person.png.weborigin'
+chmod 0664 'person.png.weborigin'
+/usr/bin/touch -hcmd "2024-09-20 14:22:42.4010699000 -0300" 'person.png.weborigin'
+/usr/bin/touch -hcad "2024-09-20 14:23:16.3581164000 -0300" 'person.png.weborigin'
